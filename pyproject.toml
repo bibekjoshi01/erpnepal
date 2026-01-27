@@ -30,6 +30,9 @@ dependencies = [
 requires = ["flit_core >=3.4,<4"]
 build-backend = "flit_core.buildapi"
 
+[tool.flit.module]
+name = "erpnepal"
+
 [tool.frappe.testing.function_type_validation]
 max_module_depth = 1
 skip_namespaces = [
