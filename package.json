@@ -3,13 +3,13 @@
   "description": "Open Source ERP System for Nepal powered by the Frappe Framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bibekjoshi/erp-nepal.git"
+    "url": "git+https://github.com/bibekjoshi/erpnepal.git"
   },
   "homepage": "",
   "author": "Frappe Technologies Pvt. Ltd.",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/bibekjoshi01/erp-nepal/issues"
+    "url": "https://github.com/bibekjoshi01/erpnepal/issues"
   },
   "devDependencies": {},
   "dependencies": {

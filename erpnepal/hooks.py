@@ -6,7 +6,7 @@ app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "bibekjoshi34@gmailcom"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/bibekjoshi01/erp-nepal"
+source_link = "https://github.com/bibekjoshi01/erpnepal"
 app_logo_url = "/assets/erpnepal/images/erpnepal-logo.svg"
 app_home = "/desk"
 

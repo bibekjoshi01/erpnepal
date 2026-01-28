@@ -71,7 +71,7 @@ To setup the repository locally follow the steps mentioned below:
 
    ```
    # Get the ERPNepal app
-   git clone https://github.com/bibekjoshi01/erp-nepal
+   git clone https://github.com/bibekjoshi01/erpnepal
 
    # Install the app
    bench --site erpnepal.localhost install-app erpnepal

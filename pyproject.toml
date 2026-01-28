@@ -1,5 +1,5 @@
 [project]
-name = "erp-nepal"
+name = "erpnepal"
 authors = [
     { name = "Bibek Joshi", email = "bibekjoshi34@gmail.com"}
 ]
@@ -37,7 +37,7 @@ name = "erpnepal"
 max_module_depth = 1
 skip_namespaces = [
     "erpnepal.deprecation_dumpster",
-    "erpnepal.assets.dashboard_fixtures",  # https://github.com/bibekjoshi01/erp-nepal/issues/44418
+    "erpnepal.assets.dashboard_fixtures",  # https://github.com/bibekjoshi01/erpnepal/issues/44418
 ]
 
 [tool.bench.frappe-dependencies]
