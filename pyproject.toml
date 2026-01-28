@@ -4,7 +4,7 @@ authors = [
     { name = "Bibek Joshi", email = "bibekjoshi34@gmail.com"}
 ]
 description = "Open Source ERP for Nepal"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 readme = "README.md"
 dynamic = ["version"]
 dependencies = [
